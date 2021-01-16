@@ -10,14 +10,13 @@ public class Q1001 {
 		//
 
 		Scanner sc = new Scanner(System.in);
-		
+
 		int a, b;
-		
-		 a = sc.nextInt();
-		 b = sc.nextInt();
-		 
-		 System.out.println(a - b);
-		
+
+		a = sc.nextInt();
+		b = sc.nextInt();
+
+		System.out.println(a - b);
 		
 	}
 
